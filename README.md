@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @osamakhawar93
-- 👀 I’m interested in WordPress (plugin development), Angular 2-8 but specifically Web Design.
-- 🌱 I’m currently learning SEO And Social Media Marketing.
-- 💞️ I’m looking to collaborate on Wordpress Projects, Wordpress Theme Development, Wordpress Plugin Development.
+- 👀 I’m interested in WordPress (plugin development, Extending Elementor Widgets), Angular 9, VueJs.
+- 💞️ I’m looking to collaborate on Wordpress Projects, Wordpress Theme Development, Wordpress Plugin Development, Elementor Widgets.
 - 📫 Reach me at osamakhawar93@gmail.com
 
 <!---
